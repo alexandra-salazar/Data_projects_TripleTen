@@ -16,7 +16,7 @@ The goal was to answer practical questions that could help hosts, travelers, and
 ---
 
 ### 📊 Insights at a Glance
-- 🗺 The top 10 NYC neighborhoods with the most Airbnb reviews over the past 12 months are concentrated in Manhattan—making them high-potential zones for investment and targeted marketing.
+🗺 The top 10 NYC neighborhoods with the most Airbnb reviews over the past 12 months are concentrated in Manhattan—making them high-potential zones for investment and targeted marketing.
 
 🏘 1-bedroom listings dominate in 9 of these neighborhoods, while studios are most popular in Midtown.
 

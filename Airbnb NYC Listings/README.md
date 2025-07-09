@@ -12,7 +12,7 @@ The goal was to answer practical questions that could help hosts, travelers, and
 - Where can travelers find the best value for their budget?  
 
 ### 📊 Insights at a Glance
-🗺 The top 10 NYC neighborhoods with the most Airbnb reviews over the past 12 months are concentrated in Manhattan—making them high-potential zones for investment and targeted marketing.
+🗺 The top 10 NYC neighborhoods with the most Airbnb reviews over the past 12 months are concentrated in Manhattan, making them high-potential zones for investment and targeted marketing.
 
 🏘 1-bedroom listings dominate in 9 of these neighborhoods, while studios are most popular in Midtown.
 
@@ -33,6 +33,6 @@ The goal was to answer practical questions that could help hosts, travelers, and
 View the interactive analysis here: [Google Sheets Link](https://docs.google.com/spreadsheets/d/1tLKenJ8_X1hFcrWaCSzZL2Qgc3l4zxEu_DrP16X7gns/edit?usp=sharing)  
 
 ## 👩🏻‍💻 About Me
-Hi! I’m Alexandra Salazar, a data analyst passionate about turning raw data into clear, actionable insights. This project was part of my data analytics bootcamp and helped me practice cleaning large datasets and building easy-to-understand visual reports.  
+Hi! I’m Alex, a data analyst passionate about turning raw data into clear, actionable insights. This project was part of my data analytics bootcamp and helped me practice cleaning large datasets and building easy-to-understand visual reports.  
 
 I’m continuing to develop my skills in Tableau, SQL, and Python to take on more complex analysis projects.  
